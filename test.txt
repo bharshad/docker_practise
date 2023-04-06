@@ -1,2 +1,2 @@
 test
-line updated
+line deleted
